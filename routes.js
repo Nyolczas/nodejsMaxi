@@ -18,7 +18,8 @@ const requestHandler = (req, res) => {
                         <form action="/message" method="POST">
                             <input type="text" name="message">
                             <button type="submit">Küldés</button>
-                        </form>
+                            </form>
+                        <p> ez egy módosítás </p>
                     </body>`);
         res.write('</html>');
         return res.end(); // innen nem megy tovább

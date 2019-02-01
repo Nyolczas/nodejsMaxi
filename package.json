@@ -1,0 +1,25 @@
+{
+  "name": "nodejsmaxi",
+  "version": "1.0.0",
+  "description": "Node js tutorials: Udemy Complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyolczas/nodejsMaxi.git"
+  },
+  "author": "Nyolczas István",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyolczas/nodejsMaxi/issues"
+  },
+  "homepage": "https://github.com/Nyolczas/nodejsMaxi#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
